@@ -1,4 +1,3 @@
-# simple-tamatoclock
 # Tomato Clock
 
 一个简单而功能强大的番茄钟应用程序。
